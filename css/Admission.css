@@ -1,0 +1,204 @@
+body{
+	overflow-x: hidden;
+}
+
+
+.heading1 {
+    font-family: 'Arial';
+	font-weight: 0;
+	/*,'sans-serif'*/
+	/*'Gotham SSm A','Gotham SSm B','HelveticaNeue','Helvetica Neue','HelveticaNeueRoman','HelveticaNeue-Roman','Helvetica Neue Roman','TeXGyreHerosRegular','Helvetica','Tahoma','Geneva',*/
+	font-size: 3em;
+	line-height: 1.5em;
+	letter-spacing: normal;
+	color: #800000;
+	/*margin: .833em 0;*/
+}
+
+.heading2 {
+    font-family: 'Arial';
+    font-weight: 50;
+    font-style: normal;
+    font-size: 1.25em;
+    line-height: 1.5em;
+    letter-spacing: normal;
+    /*padding: 0 !important;*/
+    margin-bottom: 1.3em;
+    color: #565656;
+}
+
+.ss-social {
+    padding-left: .875em;
+    vertical-align: top;
+    margin-top: 1px;
+    list-style: none;
+    font-family: 'Arial';
+    padding: 5px;
+}
+
+.fa {
+  padding: 0px;
+  font-size: 30px;
+  width: 15px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-facebook {
+  background: #565656;
+  color: white;
+}
+
+.fa-flickr {
+  background: #565656;
+  color: white;
+}
+
+.fa-tumblr {
+  background: #565656;
+  color: white;
+}
+
+.fa-twitter {
+  background: #565656;
+  color: white;
+}
+
+.fa-youtube {
+  background: #565656;
+  color: white;
+}
+
+.paragraph{
+	font-family: 'Arial';
+	padding: 15px;
+	text-align: center;
+	padding-right: 80px;
+	font-size: 1em;
+	color: #565656
+}
+
+.headline{
+	position: absolute;
+	font-family: 'Arial';
+	bottom: 20px;
+	letter-spacing: normal;
+	max-width: inherit;
+	text-align: center;
+	line-height: 1.25em;
+	text-shadow: 0 1px 0 #000;
+	color: #fff;
+	padding-left: 50px;
+	display: inline-block;
+	width: 100%;
+	font-size: 1em;
+	/*padding: 5px;*/
+}
+
+.blurb{
+	font-family: 'Arial Rounded MT';
+	padding: 10px;
+	text-shadow: 2px 2px 4px #000;
+}
+
+.description{
+	font-family: 'Arial';
+	/*text-align: center;*/
+	padding-right: 10px;
+	font-size: 1.1234em;
+	color: #565656
+	/*padding: 15px;*/
+}
+
+.link{
+	font-family: 'Arial';
+	/*text-align: center;*/
+    font-weight: 60;
+    font-style: normal;
+    font-size: 1.1234em;
+    /*line-height: 1.5em;*/
+    letter-spacing: normal;
+    /*padding: 0 !important;*/
+    /*margin-bottom: 1.3em;*/
+    color: #565656;
+}
+.undergraduate_heading{
+	font-size: 25px;
+	font-family: 'Arial';
+	/*padding: 10px;*/
+	color: #800000;
+}
+.ss-standard{
+    vertical-align: top;
+    /*margin-top: 1px;*/
+    list-style: none;
+    font-family: 'Arial Rounded MT';
+    /*padding: 5px;*/
+}
+.image1{
+	margin-left: -40px;
+}
+.list{
+	padding-left: .875em;
+    vertical-align: top;
+    margin-top: 1px;
+    list-style: none;
+    font-family: 'Arial';
+    padding: 5px;
+}
+.list2{
+	padding-left: .875em;
+    vertical-align: top;
+    list-style: square;
+    font-family: 'Arial';
+	font-size: 1.1234em;
+}
+.profession{
+	margin-top: 40px;
+	font-family: 'Arial';
+	/*text-align: center;*/
+	padding-right: 20px;
+	font-size: 16px;
+	color: #565656
+	/*padding: 15px;*/
+}
+
+
+
+.footer {
+position: static;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #484848;
+color: white;
+text-align: center;
+padding: 15px;
+margin-top: 100px;
+}
+#footer1{
+font-size: 14px;
+line-height: 27px;
+color: #D3D3D3;
+list-style-type:none;
+}
+.vfooter{
+border-top: 1px solid black;
+width: 1260px;
+margin: 20px;
+box-shadow: 2px 0px 2px #888;
+display: inline-block;
+}
+
+
+
+.campusheading{
+background-color: #800000;
+display: block;
+color: white;
+}
+
+.navbar-default.navbar-custom .navbar-nav>li>a {
+color: white;
+background-color: #800000;
+}
