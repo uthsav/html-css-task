@@ -1,0 +1,66 @@
+.container-fluid{
+    background-color: #800000;
+}
+#myNavbar{
+    font-size: 17px;
+    text-decoration-style: inherit;
+}
+ul#menu li {
+    display:inline;
+    padding-left: 25px;
+    color: #6b6b47;
+    font-size: 21px;
+}
+.content{
+    position: absolute;
+    bottom: 90px;
+    right: 30px;
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1;
+    width: 46%;
+    padding: 20px;
+    font-size: 14px;
+    color: white;
+    text-shadow: 1px 1px 1px black, 0 0 1px white, 0 0 1px white;
+ }
+ #winterid{
+    color: #6b6b47;
+    padding: 20px;
+ }
+ #studentid{
+    color: #800000;
+    padding: 20px;
+ }
+ #studentslist{
+    color: #800000;
+    font-size: 15px;
+    line-height: 1.4;
+    padding-left: 18px;
+    margin-bottom: 17%;
+    list-style-type:none;
+ }
+  #studentslist1{
+    color: #800000;
+    font-size: 15px;
+    line-height: 1.4;
+    padding-left: 18px;
+    margin-bottom: 13%;
+    list-style-type:none;
+ }
+ .verticalline{
+    border-bottom: 1px solid silver;
+    width: 250px;
+}
+ .verticalline1{
+    border-bottom: 1px solid silver;
+    width: 250px;
+    margin-right: 30px;
+}
+.verticalline3{
+    border-bottom: 1px solid silver;
+    width: 210px;
+}
+#tableid{
+    line-height: 4.0;
+}

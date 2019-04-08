@@ -1,0 +1,152 @@
+.academicid{
+    font-weight: 100;
+    font-size: 2;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #800000;
+}
+.list-group{
+    color: #3e769a;
+    background: #f7f7f7;
+}
+#imagecontainer{
+    position: relative;
+   font-family: Arial;
+}
+.text-block{
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+    font-size: 35px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1px white, 0 0 5px white;
+    padding-left: 45px;
+    padding-right: 20px;
+}
+.smalltext-block{
+    position: absolute;
+    bottom: 30px;
+    right: 180px;
+    font-size: 16px;
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 1px white, 0 0 5px white;
+    font-weight: bold;
+}
+#resourcesid{
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+#listid{
+    color: #800000;
+    font-size: 14px;
+    padding: 2px;
+    line-height: 2.4;
+    list-style-type:none;
+
+}
+#paraid{
+    font-size: 18px;
+    padding: 16px;
+}
+#library{
+    padding: 16px;
+}
+#librarycontainer{
+   position: relative;
+}
+.bottomleft {
+    position: absolute;
+    bottom: 80px;
+    left: 16px;
+    font-size: 18px;
+    color: #800000;
+}
+.verticall {
+    border-top: 1px solid silver;
+    width: 250px;
+    padding: 10px;
+}
+.vertical2 {
+    border-bottom: 1px solid silver;
+    width: 250px;
+    padding: 10px;
+}
+.vertical3 {
+    border-top: 1px solid silver;
+    width: 850px;
+    padding-top: 50px;
+}
+#h3id{
+    color: #800000;
+    padding-left: 30px;
+    margin-top: 1px;
+}
+#ulid{
+    color: #800000;
+    line-height: 2.9;
+}
+#ulid1{
+    color: #800000;
+    line-height: 2.9;
+    padding: 36px;
+}
+#pressid{
+    padding: 20px;
+}
+#pressimage{
+    position: absolute;
+    z-index: 1;
+    top: 90px;
+    margin-left: 25px;
+    background-color: #cccc00;
+}
+#pressparagraph{
+    margin-left: 25px;
+}
+#abt{
+    color: #800000;
+    margin-left: 25px;
+    font-size: 18px;
+}
+#relatedlinkid{
+    margin-left: 1px;
+    color: #800000;
+    line-height: 2.9;
+}
+#relatedid{
+    margin-left: 32px;
+}
+.footer {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #484848;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 100px;
+}
+#footer1{
+    font-size: 14px;
+    line-height: 27px;
+    color: #D3D3D3;
+    list-style-type:none;
+}
+.vfooter{
+    border-top: 1px solid black;
+    width: 1260px;
+    margin: 20px;
+    box-shadow: 2px 0px 2px #888;
+    display: inline-block;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
+    text-align: center;
+    margin: 5px 2px;
+    color: grey;
+}
+
+
